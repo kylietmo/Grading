@@ -1,0 +1,1 @@
+This is a skeleton test file used for grading scripts for a course teaching in Java.
